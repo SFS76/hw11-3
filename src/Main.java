@@ -1,5 +1,4 @@
-//TIP To <b>Run</b> code, press <shortcut actionId="Run"/> or
-// click the <icon src="AllIcons.Actions.Execute"/> icon in the gutter.
+
 public class Main {
     public static void deliveryDay (int deliveryDistance) {
         byte deliveryDay = (byte) (1 + (deliveryDistance + 19) / 40f);
